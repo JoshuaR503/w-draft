@@ -1,8 +1,11 @@
 * {
     margin: 0px;
     padding: 0px;
-    background: red;
     color: white;
+}
+
+body {
+    background: linear-gradient(180deg, rgba(88,0,0,1) 0%, rgba(181,0,27,1) 46%);
 }
 
 .poppins {
