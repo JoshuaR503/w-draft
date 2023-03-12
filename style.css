@@ -1,10 +1,14 @@
 * {
     margin: 0px;
     padding: 0px;
-    background: black;
+    background: red;
     color: white;
 }
 
 .poppins {
     font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    background-color: bisque;
 }
